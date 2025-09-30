@@ -12,3 +12,14 @@ Capture and analyze network packets using Wireshark to identify common protocols
 5. Exported capture as `network_capture_task5.pcap`.
 
 
+Files
+- `network_capture_task5.pcap` → Saved Wireshark packet capture file. 
+
+
+Outcome
+Gained hands-on experience with:
+- Capturing live network packets
+- Using Wireshark filters effectively
+- Identifying different protocols and understanding their purpose
+
+
