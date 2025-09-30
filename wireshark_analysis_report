@@ -1,0 +1,14 @@
+**Wireshark Network Traffic Analysis Report**
+
+
+Capture and analyze network packets using Wireshark to identify common protocols and traffic patterns.
+
+
+**Capture Method**
+1. Started Wireshark capture on active Wi-Fi interface.
+2. Visited https://www.wikipedia.org and pinged `google.com`.
+3. Stopped capture after ~1 minute.
+4. Filtered packets by protocol (DNS, TCP, HTTP, ICMP).
+5. Exported capture as `network_capture_task5.pcap`.
+
+
